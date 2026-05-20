@@ -23,6 +23,4 @@ Computer Engineering Student @ NMIMS | 8.5 CGPA | Looking for Internship 2026
 ## 📫 Connect
 [LinkedIn](https://linkedin.com/in/renuka-patil-6131b02a9) | [Email](mailto:renukapatil0505@gmail.com)
 
----
 
-⭐️ From Renukaaapatil
