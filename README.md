@@ -1,26 +1,54 @@
-# 👋 Hi, I'm Renuka Patil
+<div align="center">
+  <h1>🚀 Renuka Patil</h1>
+  <h3>Software Engineer | Distributed Systems | ML Enthusiast</h3>
+  <p>Computer Engineering @ NMIMS | Looking for Remote SDE Role</p>
+</div>
 
-Computer Engineering Student @ NMIMS | 8.5 CGPA | Looking for Internship 2026
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Renukaaapatil&color=blue&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Job%20Seeker-brightgreen?style=flat-square" alt="Job Seeker"/>
+  <img src="https://img.shields.io/badge/Remote-Worldwide-blue?style=flat-square" alt="Remote"/>
+</div>
 
-## 🔥 Featured Projects
+---
 
-### Distributed Exam System
-- Built distributed online examination system with load balancing across 3 nodes
-- Implemented fault tolerance - system continues if one node fails
-- Added real-time proctoring using computer vision
-- Used Flask, Python, RPC for inter-node communication
+## 📊 GitHub Stats
 
-### Burnout Prediction System
-- Built ML model to predict employee/student burnout risk (Low/Medium/High)
-- Used Python, Flask, Scikit-learn for data analysis and predictive modeling
-- Deployed with Streamlit for interactive web interface
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Renukaaapatil&show_icons=true&theme=default" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renukaaapatil&layout=compact&theme=default" />
+</div>
 
-## 📁 Other Projects
-- Weather App - Real-time weather using OpenWeatherMap API
-- Calculator App - DOM manipulation
-- Portfolio Website - Responsive design
+---
 
-## 📫 Connect
-[LinkedIn](https://linkedin.com/in/renuka-patil-6131b02a9) | [Email](mailto:renukapatil0505@gmail.com)
+## 🏆 Featured Projects
 
+| Project | Tech Stack | Key Achievements |
+|---------|------------|------------------|
+| **Distributed Exam System** | Flask, Python, RPC | 99.9% availability, 3-node cluster |
+| **Burnout Prediction ML** | Python, Scikit-learn | 85% accuracy, 5000+ data points |
+| **Plant Disease Detection** | TensorFlow, Android | 92% accuracy, 38 disease classes |
+| **Weather App** | HTML, CSS, JS, API | Real-time weather data |
+| **Portfolio Website** | HTML, CSS, JS | Responsive design |
 
+---
+
+## 🛠️ Technical Skills
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | Python, JavaScript, Java, SQL, HTML, CSS |
+| **Frameworks** | Flask, React.js, Streamlit |
+| **ML/AI** | TensorFlow, Scikit-learn, Pandas, NumPy |
+| **Tools** | Git, GitHub, VS Code, Postman |
+| **Concepts** | DSA, REST APIs, OOPs, DBMS, Distributed Systems |
+
+---
+
+## 💼 Work Availability
+
+```yaml
+Open to: Remote Software Development Roles
+Location: Worldwide (US, UK, Europe, Asia)
+Work Hours: Flexible for US/UK time zones
+Role Type: Full-time / Contract / Internship
