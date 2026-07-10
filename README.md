@@ -79,8 +79,7 @@ I'm a **Computer Engineering student at NMIMS** with hands-on experience across 
 
 Built a full-stack AI-powered sustainability platform that tracks resource consumption, predicts future usage, detects anomalies, and provides personalized recommendations to reduce waste and carbon footprint.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](link-to-demo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -89,7 +88,7 @@ Built a full-stack AI-powered sustainability platform that tracks resource consu
 
 Built fault-tolerant exam platform with 3-node distributed architecture. Achieved 99.9% availability with load balancing and real-time monitoring.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -98,8 +97,7 @@ Built fault-tolerant exam platform with 3-node distributed architecture. Achieve
 
 Developed ML model with 85% accuracy on 5,000+ data points. Built interactive Streamlit dashboard for employee burnout recommendations.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=streamlit&logoColor=white)](link-to-demo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -108,7 +106,7 @@ Developed ML model with 85% accuracy on 5,000+ data points. Built interactive St
 
 Engineered RAG-based LLM application with vector embeddings. Deployed on scalable AWS architecture for AI-powered mental health support.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -117,7 +115,7 @@ Engineered RAG-based LLM application with vector embeddings. Deployed on scalabl
 
 Created real-time disease detection Android app with 92% accuracy across 38 disease classes using PlantVillage dataset of 87,000 images.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -126,8 +124,7 @@ Created real-time disease detection Android app with 92% accuracy across 38 dise
 
 Real-time weather data application with responsive design and clean UI.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](link-to-demo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
@@ -136,8 +133,7 @@ Real-time weather data application with responsive design and clean UI.
 
 Responsive personal portfolio website showcasing projects, skills, and experience.
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF5722?style=flat&logo=vercel&logoColor=white)](link-to-demo)
+[![Repo](https://img.shields.io/badge/View_Repository-181717?style=flat&logo=github&logoColor=white)](link-to-repo)
 
 ---
 
