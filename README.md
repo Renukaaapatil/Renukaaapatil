@@ -16,7 +16,7 @@ I'm a **Computer Engineering student at NMIMS** with hands-on experience across 
 
 - 🔭 Currently building **EcoMind AI** — an AI-powered sustainability intelligence platform
 - 🌱 Exploring **RAG architectures** and **LLM applications**
-- 💼 5 internships | 7 production projects | 99.9% uptime systems
+- 💼 5 internships | 7 projects | 99.9% uptime systems
 - 🎯 Looking for **Remote SDE Roles** | Open to US/UK Hours
 
 ---
